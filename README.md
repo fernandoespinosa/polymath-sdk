@@ -60,3 +60,11 @@ const myTokenReservation = await polyClient.getSecurityTokenReservation({
 ```
 
 **To be continued...**
+
+---
+
+# Features
+
+## Feature 1
+
+Let's pretend this is a new feature...
